@@ -4,7 +4,7 @@
 
 # Microsoft Office 2016 Activator
 
-### __Microsoft Office 2016 Activator__ is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using __KMS server__.
+### *__Microsoft Office 2016 Activator__* is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using *__KMS server__*.
 
 #
 
@@ -31,9 +31,9 @@
     ```
 - Make sure your internet connection is good enough, then open the file: _right click & choose **Open as Administrator**_.  Wait until its processing done.
 
-    ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+    ![screenshot](https://raw.githubusercontent.com/LintangWisesa/Microsoft_Office_2016_Activator/master/Office_Activator.png)
 
-- If everything goes well, now your Office 2016 is activated. Enjoy! :sunglasses:
+- If everything goes well, now your Microsoft Office 2016 is activated. Enjoy! :sunglasses:
 
 #
 

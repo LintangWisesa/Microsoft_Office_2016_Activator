@@ -4,7 +4,7 @@
 
 # Microsoft Office 2016 Activator :zap:
 
-### *__Microsoft Office 2016 Activator__* is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using *__KMS server__*.
+### *__Microsoft Office 2016 Activator__* is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using *__KMS server__*. It's totally free & you don't need to install any tools/software.
 
 ![office_2016](https://4.bp.blogspot.com/-o7-6Pdh_DC4/WyC8Cgb9pFI/AAAAAAAAEMc/p5JwvlIIGow9FIIh8gimYoL45Of1Wxm9QCLcBGAs/s320/2000px-Microsoft_Office_2013_logo_and_wordmark.svg.png)
 

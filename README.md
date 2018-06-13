@@ -12,8 +12,7 @@
 
 ### **Create the Activator File** :clipboard:
 
-- Basically we will create & use our own simple batch file (__.cmd__) which can accesses the KMS server to activate Microsoft Office products. 
-- To get started, open your text/code editor (e.g **_Notepad_**, **_WordPad_**, **_Visual Studio Code_**, etc.), write the codes below & save it as **.cmd** file. Or you can simply download my **Activator.cmd** on this repo.
+- Basically we will create & use our own simple batch file (__.cmd__) which can access the KMS server to activate Microsoft Office products. To get started, open your text/code editor (e.g **_Notepad_**, **_WordPad_**, **_Visual Studio Code_**, etc.), write the codes below & save it as **.cmd** file. Or you can simply download my **Activator.cmd** on this repo.
 
     ```cmd
     @echo off
@@ -31,7 +30,7 @@
     :halt
     pause
     ```
-- Make sure your internet connection is good enough, then open the file: _right click & choose **Open as Administrator**_.  Wait until its processing done.
+- Make sure your internet connection is good enough, then open the file: _right click & choose **Open as Administrator**_. Automatically it will access KMS server to activate your Microsoft Office 2016. Wait until its processing done.
 
     ![screenshot](https://raw.githubusercontent.com/LintangWisesa/Microsoft_Office_2016_Activator/master/Office_Activator.png)
 

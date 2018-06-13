@@ -6,7 +6,7 @@
 
 ### *__Microsoft Office 2016 Activator__* is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using *__KMS server__*.
 
-![office_2016](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Microsoft_Office_2013_logo_and_wordmark.svg/2000px-Microsoft_Office_2013_logo_and_wordmark.svg.png)
+![office_2016](https://www.mouse-jp.co.jp/images/desktop/option/office-2013/office_logo.gif)
 
 #
 

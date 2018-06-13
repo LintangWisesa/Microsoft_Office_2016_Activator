@@ -23,8 +23,8 @@
     if %i%==3 set KMS_Sev=kms9.MSGuides.com
     if %i%==4 goto notsupported
     cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ****************************************************************************&echo.
-    cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ****************************************************************************&echo.&echo #Facebook: https://www.facebook.com/lintangbagus&echo #Twitter: https://twitter.com/Lintang_Wisesa&echo #GitHub: https://github.com/LintangWisesa&echo #Youtube: https://www.youtube.com/user/lintangbagus&echo #Contact me at lintangwisesa@ymail.com&echo.&echo ****************************************************************************&echo.&choice /n /c YN /m "Done. Thank's for using me!" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
-    explorer "http://MSGuides.com"&goto halt
+    cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ****************************************************************************&echo.&echo #Facebook: https://www.facebook.com/lintangbagus&echo #Twitter: https://twitter.com/Lintang_Wisesa&echo #GitHub: https://github.com/LintangWisesa&echo #Youtube: https://www.youtube.com/user/lintangbagus&echo #Contact me at lintangwisesa@ymail.com&echo.&echo ****************************************************************************&echo.&choice /n /c YN /m "Done. Wanna see my project on YouTube [y/n]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+    explorer "https://www.youtube.com/user/lintangbagus"&goto halt
     :notsupported
     echo.&echo ***************************************************************************=&echo Sorry! Your version is not supported.&echo Please try installing the latest version!
     :halt
@@ -34,7 +34,7 @@
 
     ![screenshot](https://raw.githubusercontent.com/LintangWisesa/Microsoft_Office_2016_Activator/master/Office_Activator.png)
 
-- If everything goes well, now your Microsoft Office 2016 is activated. Enjoy! :sunglasses:
+- If everything goes well, now your Microsoft Office 2016 is activated. On the last line, you can type __*n*__ to exit from the app, or type __*y*__ to see my projects on YouTube. Enjoy! :sunglasses:
 
 #
 

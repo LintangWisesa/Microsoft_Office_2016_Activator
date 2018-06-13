@@ -2,15 +2,15 @@
 
 ![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
 
-# Microsoft Office 2016 Activator
+# Microsoft Office 2016 Activator :zap:
 
 ### *__Microsoft Office 2016 Activator__* is a simple command line script project to activate Microsoft Office 2016 (Standard & Professional Plus) using *__KMS server__*.
 
-![office_2016](https://www.mouse-jp.co.jp/images/desktop/option/office-2013/office_logo.gif)
+![office_2016](https://4.bp.blogspot.com/-o7-6Pdh_DC4/WyC8Cgb9pFI/AAAAAAAAEMc/p5JwvlIIGow9FIIh8gimYoL45Of1Wxm9QCLcBGAs/s320/2000px-Microsoft_Office_2013_logo_and_wordmark.svg.png)
 
 #
 
-### **Create the Activator File** :zap:
+### **Create the Activator File** :clipboard:
 
 - Basically we will create & use our own simple batch file (__.cmd__) which can accesses the KMS server to activate Microsoft Office products. 
 - To get started, open your text/code editor (e.g **_Notepad_**, **_WordPad_**, **_Visual Studio Code_**, etc.), write the codes below & save it as **.cmd** file. Or you can simply download my **Activator.cmd** on this repo.
